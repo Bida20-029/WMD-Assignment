@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: red;
+}
+nav{
+    overflow: hidden;
+    display: block;
+    text-align: center; 
+  }
+nav a:hover{
+    color: black;
+}
+p{
+    color:red;
+    text-align: justify;
+    float: left;
+}
+body{
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: red;
+}
+  }
+  li{
+    display: inline;
+    text-size-adjust: 10px;
+  }
